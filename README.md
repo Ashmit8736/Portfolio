@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Personal Portfolio Website
 
 A responsive personal portfolio website built with HTML, CSS, and JavaScript.
@@ -34,3 +35,6 @@ A responsive personal portfolio website built with HTML, CSS, and JavaScript.
 =======
 # portfolioAshmit
 >>>>>>> 447fc33a4656e5fed7eeac94a7705367120cb00f
+=======
+# PORTFOLIO
+>>>>>>> 649b921fd14fcde9ba1b0358ac93a20dd74405cb
